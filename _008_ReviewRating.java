@@ -46,7 +46,7 @@ Review Details: An incredible film with mind-blowing sequences and outstanding p
 // You are using Java
 import java.util.*;
 
-class Main {
+public class _008_ReviewRating {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         
