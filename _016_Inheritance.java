@@ -33,7 +33,7 @@ class Dog extends Animal {
     }
 }
 
-public class _007_Inheritance {
+public class _016_Inheritance {
     public static void main(String[] args) {
         Dog dog = new Dog("Tommy", 5, "Bulldog");
         dog.eat();

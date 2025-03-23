@@ -18,7 +18,7 @@ class Cat extends Animal {
     }
 }
 
-public class _008_methodOverriding {
+public class _012_methodOverriding {
     public static void main(String[] args) {
         Animal a = new Animal();
         Animal b = new Dog();

@@ -13,7 +13,7 @@ class Person {
     }
 }
 
-public class _010_toString {
+public class _015_toString {
     public static void main(String[] args) {
         Person p = new Person("John", 30);
         System.out.println(p);
